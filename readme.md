@@ -15,7 +15,7 @@ To install the project, run:
 ```bash
 git clone https://github.com/RGGH/aaa.git
 cd aaa
-cargo r
+cargo r```
 
 [animation](https://github.com/RGGH/aaa/blob/main/animation.gif)
 
