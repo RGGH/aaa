@@ -4,9 +4,9 @@ This is a demo using 4 threads to update 4 progress bars
 
 ## Features
 
-- Easy to use
-- Fast performance
-- Highly customizable
+- Toy example, (1 Arc/Mutex for 4 progress bars)
+- Uses ```repeat()```
+- Demonstrates non-deterministic concurrency
 
 ## Installation
 
