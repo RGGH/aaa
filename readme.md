@@ -17,3 +17,5 @@ git clone https://github.com/RGGH/aaa.git
 cd aaa
 cargo r
 
+[animation](https://github.com/RGGH/aaa/blob/main/animation.gif)
+
